@@ -1,8 +1,7 @@
+# Web3 Trading — Trader Behavior vs Market Sentiment Analysis
 
-# 📊 Trader Behavior vs Market Sentiment Analysis
-
-## 🔍 Objective
-Analyzed how trader behavior (profitability, leverage, volume, risk) aligns or diverges from market sentiment (Fear vs Greed).
+## One-line summary
+Analyze how trader behavior (profitability, leverage, volume and risk) aligns with or diverges from market sentiment (Fear vs Greed). This repo contains the exploratory notebook, raw CSVs, and generated visual outputs used for the analysis.
 
 ## 📁 Project Structure
 
@@ -17,3 +16,6 @@ ds_priyadarshini/
  │ └── leverage_by_sentiment.png
  ├── ds_report.pdf # Final summary report 
  ├── README.md # Project overview
+
+ ## 🔗 Google Colab Notebooks
+- [notebook_1.ipynb](https://colab.research.google.com/drive/1VLRvQbFjCza7qkEbeliISf7-MuL3gJVx?usp=sharing)
